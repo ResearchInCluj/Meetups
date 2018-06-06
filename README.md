@@ -18,3 +18,7 @@ A discussion about the topic of research and what should the purpose of it be? W
 * [How to stabilize an inverted pendulum legally](https://prezi.com/mue3posrnkyc/hmdj/)
 
 Presented by [Zoltan Nagy](https://www.github.com/zoltan21) on the [meetup of April 19 2018](https://www.meetup.com/research-in-cluj/events/249260385/).
+
+* [Remembering and forgetting](https://drive.google.com/open?id=158dlJcuDGh9I6pJFqV8MD7Xby8N5KATBgvGnpEEVSgo)
+
+Presented by [Luiza Salanțiu](https://www.twitter.com/luizasalantiu) on the [meetup of May 22](https://www.meetup.com/research-in-cluj/events/250579054/), at Bricks.
